@@ -17,6 +17,6 @@ pack(): This method with the screen is used to organize the geometry of widget i
 ipady: This defines a number of pixels to pad widget, horizontally, and vertically. But only inside the widget’s border.
 bg: To set the background color.
 It allows to create small, inline functions for the command parameter. We have three buttons that share one callback. The lambda function allows us to send specific data to the callback.
-mainloop(): This is like infinite loop used to run the application. It basically waits for an event to occur as long as the window is not closed.
+mainloop():This is like infinite loop used to run the application. It's basically waits for an event to occur as long as the window is not closed.
 
 
